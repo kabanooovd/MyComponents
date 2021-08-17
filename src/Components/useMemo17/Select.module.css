@@ -1,0 +1,51 @@
+.SelectComponent {
+    padding: 20px;
+}
+
+.selector {
+    padding: 5px;
+    background-color: #c7c9c8;
+    border: 3px solid #1f7346;
+    border-radius: 5px;
+    width: 200px;
+    /*height: 50px;*/
+}
+
+.header {
+    display: flex;
+    /*justify-content: space-between;*/
+}
+
+/*.choseBtn {*/
+/*    background-color: #1f7346;*/
+/*    border-radius: 5px;*/
+/*    color: #c7c9c8;*/
+/*    width: 50px;*/
+/*}*/
+
+.currentOption {
+    color: #1f7346;
+    cursor: pointer;
+}
+
+.MainSign {
+    color: #1f7346;
+}
+
+.allOptions {
+    margin-top: 20px;
+}
+
+.optionsToChose {
+    background-color: #c7c9c8;
+    color: #1f7346;
+    padding: 10px;
+    border: 3px solid #1f7346;
+    border-radius: 5px;
+    width: 190px;
+}
+
+.singleOption:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}
